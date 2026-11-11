@@ -5,7 +5,7 @@
   "summary": {
     "title": "New Threat Model",
     "owner": "",
-    "description": "",
+    "description": "Azure Hosted API published on internet. Azure Firewall → Azure API Manager → Application Gateway with a WAF → REdhat VM hosted reverse proxy → Virtual machine Tomcat server",
     "id": 0
   },
   "detail": {
